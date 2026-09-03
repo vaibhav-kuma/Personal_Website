@@ -1,0 +1,15 @@
+# Robots.txt for Vaibhav Kumar Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://vaibhavk.dev/sitemap.xml
+
+# Disallow private/admin areas
+Disallow: /api/
+Disallow: /_next/
+Disallow: /*.json$
+Disallow: /projects/*.json$
+
+# Crawl-delay for polite crawling
+Crawl-delay: 10

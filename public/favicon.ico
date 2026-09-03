@@ -1,0 +1,10 @@
+# Favicon.ico Placeholder
+
+This is a placeholder for the favicon.ico file. 
+
+To generate a proper favicon.ico:
+1. Create a 32x32 PNG version of the logo
+2. Use a tool like https://realfavicongenerator.net/ or https://favicon.io/ to generate the .ico file
+3. Replace this file with the generated favicon.ico
+
+The favicon.svg in this directory can be used as the source.

@@ -1,0 +1,42 @@
+{
+  "name": "Vaibhav Kumar — Backend Developer | Cybersecurity | AI",
+  "short_name": "Vaibhav Kumar",
+  "description": "Portfolio of Vaibhav Kumar, focused on backend engineering, cybersecurity, AI agents, threat detection, and security automation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00bfff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["developer", "portfolio", "technology"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Projects",
+      "short_name": "Projects",
+      "description": "View featured projects",
+      "url": "/#projects",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "GitHub",
+      "short_name": "GitHub",
+      "description": "View GitHub profile",
+      "url": "https://github.com/vaibhavk",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

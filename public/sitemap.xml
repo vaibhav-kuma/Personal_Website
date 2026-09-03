@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://vaibhavk.dev/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/#about</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/#about" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/#skills</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/#skills" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/#projects</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/#projects" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/#architecture</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/#architecture" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/#activity</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/#activity" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/#experience</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/#experience" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/#contact</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/#contact" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/projects/soc-platform</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/projects/soc-platform" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/projects/legacy-lift-ai</loc>
+    <lastmod>2024-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/projects/legacy-lift-ai" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/projects/vadt</loc>
+    <lastmod>2023-12-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/projects/vadt" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/projects/dark-exposure</loc>
+    <lastmod>2023-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/projects/dark-exposure" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/projects/threat-detection-monitoring-dashboard</loc>
+    <lastmod>2023-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/projects/threat-detection-monitoring-dashboard" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/projects/sec-automation</loc>
+    <lastmod>2023-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/projects/sec-automation" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/projects/malware-analysis</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/projects/malware-analysis" />
+  </url>
+  <url>
+    <loc>https://vaibhavk.dev/projects/network-monitor</loc>
+    <lastmod>2023-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vaibhavk.dev/projects/network-monitor" />
+  </url>
+</urlset>
